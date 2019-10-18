@@ -1,0 +1,1 @@
+D:\githubPro\rust-trip\hello_world\hello_cargo\target\debug\hello_cargo.exe: D:\githubPro\rust-trip\hello_world\hello_cargo\src\main.rs D:\githubPro\rust-trip\hello_world\hello_cargo\src\type_alias.rs
