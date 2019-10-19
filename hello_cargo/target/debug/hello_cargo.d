@@ -1,1 +1,1 @@
-D:\githubPro\rust-trip\hello_world\hello_cargo\target\debug\hello_cargo.exe: D:\githubPro\rust-trip\hello_world\hello_cargo\src\main.rs D:\githubPro\rust-trip\hello_world\hello_cargo\src\type_alias.rs
+/mnt/d/githubPro/rust-trip/hello_cargo/target/debug/hello_cargo: /mnt/d/githubPro/rust-trip/hello_cargo/src/enum_.rs /mnt/d/githubPro/rust-trip/hello_cargo/src/main.rs /mnt/d/githubPro/rust-trip/hello_cargo/src/type_alias.rs
