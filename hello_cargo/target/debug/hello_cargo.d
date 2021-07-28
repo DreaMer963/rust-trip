@@ -1,1 +1,0 @@
-/mnt/d/githubPro/rust-trip/hello_cargo/target/debug/hello_cargo: /mnt/d/githubPro/rust-trip/hello_cargo/src/enum_.rs /mnt/d/githubPro/rust-trip/hello_cargo/src/main.rs /mnt/d/githubPro/rust-trip/hello_cargo/src/type_alias.rs
